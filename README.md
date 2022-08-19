@@ -1,2 +1,2 @@
 # SignalRApp
-Онлайн чат, тест SignalR
+Онлайн чат, тест SignalR с WPF клиентом.
